@@ -1,0 +1,20 @@
+.slider-negative-container {
+  width: 97%;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  overflow: hidden;
+}
+.slider-person-img {
+  width: 15%;
+  height: 10%;
+  border-radius: 50%;
+}
+.single-card-slider {
+  background-color: #fff;
+  padding: 25px 0px;
+  padding-left: 30px;
+  border-radius: 20px;
+  margin-right: 50px;
+  height: auto;
+}
